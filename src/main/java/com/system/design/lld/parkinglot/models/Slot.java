@@ -1,6 +1,6 @@
 package com.system.design.lld.parkinglot.models;
 
-import com.system.design.lld.parkinglot.service.IdGenerator;
+import com.system.design.lld.common.IdGenerator;
 
 /**
  * @author nayanava

@@ -3,7 +3,7 @@ package com.system.design.lld.parkinglot.models;
  * @author nayanava
  */
 
-import com.system.design.lld.parkinglot.service.IdGenerator;
+import com.system.design.lld.common.IdGenerator;
 import java.util.Date;
 
 public class Card {

@@ -1,4 +1,4 @@
-package com.system.design.lld.parkinglot.service;
+package com.system.design.lld.common;
 /**
  * @author nayanava
  */
